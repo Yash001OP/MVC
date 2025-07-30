@@ -1,3 +1,26 @@
+# Laravel MVC Category & Product Management System
+
+A complete Laravel MVC system featuring:
+- **Category Management**: Hierarchical categories with parent-child relationships
+- **Product Management**: Full CRUD with category relationships
+- **Image Upload & Cropping**: Client-side image cropping with Cropper.js
+- **Search & Filter**: Advanced search and filtering capabilities
+- **Bulk Operations**: Efficient bulk delete operations
+- **PostgreSQL Database**: Robust database with proper relationships
+- **Responsive Design**: Bootstrap 5 UI with Font Awesome icons
+
+## Features
+
+- ✅ Hierarchical category structure
+- ✅ Image upload with client-side cropping
+- ✅ Full CRUD operations for both modules
+- ✅ Advanced search and filtering
+- ✅ Bulk delete operations
+- ✅ Responsive Bootstrap 5 design
+- ✅ PostgreSQL database integration
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
